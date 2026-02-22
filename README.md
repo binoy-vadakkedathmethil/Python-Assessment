@@ -63,7 +63,7 @@ The following visualizations were created:
 -  Count Plot – Employee distribution by team
 -  Count Plot – Employee distribution by position
 -  barplot – Age group distribution
--  Bar Chart – Salary expenditure by team and position
+-  barplot – Salary expenditure by team and position
 -  Scatter Plot Or Heat map – Age vs Salary correlation
 
 These visualizations helped identify patterns and trends clearly.
